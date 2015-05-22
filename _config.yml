@@ -16,8 +16,6 @@ footer: Towering Pillar of Hats Security
 social:
   - title: twitter
     url: https://twitter.com/Kurobeats
-  - title: github
-    url: https://github.com/Oweoqi
 
 # Build settings
 markdown: kramdown
